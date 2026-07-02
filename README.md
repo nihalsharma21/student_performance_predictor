@@ -8,10 +8,10 @@ A machine learning web app that predicts student grade categories (**High / Medi
 
 ```
 student-performance-predictor/
-├── app.py               ← Main Streamlit application
-├── student_data.csv     ← Sample dataset (50 students)
-├── requirements.txt     ← Python dependencies
-└── README.md            ← This file
+├── app.py                   ← Main Streamlit application
+├── student_data_200.csv     ← Sample dataset (200 students)
+├── requirements.txt         ← Python dependencies
+└── README.md                ← This file
 ```
 
 ---
