@@ -108,6 +108,8 @@ You can upload your own CSV using the sidebar — it must contain these same col
 
 - **Python** — Core language
 - **Pandas** — Data manipulation
+- **NumPy** — Fast numerical computing and array operations
 - **Scikit-Learn** — Random Forest classification
 - **Matplotlib / Seaborn** — Visualizations
+- **Seaborn** — Statistical data visualization
 - **Streamlit** — Web application framework
